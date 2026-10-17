@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "$2y$10$L0rRDqk4JkeRh249Sn.U1.tOAZLln7wkbY1ymFan.tMWhdGbWRAg6",
+      "nama": "Admin"
+    }
+  ],
+  "siswa": [
+    {
+      "id": "a1b2c3d4e5f6",
+      "nama": "Andi Pratama",
+      "nis": "0001",
+      "kelas": "XII RPL 1",
+      "gender": "Laki-laki",
+      "hobi": ["Coding"],
+      "alamat": "Ponorogo"
+    },
+    {
+      "id": "b2c3d4e5f6a1",
+      "nama": "Bunga Lestari",
+      "nis": "0002",
+      "kelas": "XII RPL 2",
+      "gender": "Perempuan",
+      "hobi": ["Membaca", "Musik"],
+      "alamat": "Ponorogo"
+    },
+    {
+      "id": "c3d4e5f6a1b2",
+      "nama": "Amfidza Neo Danara",
+      "nis": "0003",
+      "kelas": "XII RPL 2",
+      "gender": "Laki-laki",
+      "hobi": ["Coding", "Gaming"],
+      "alamat": "Ponorogo"
+    }
+  ]
+}
